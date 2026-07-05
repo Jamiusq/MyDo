@@ -1,0 +1,6 @@
+{
+  "name": "Todo List",
+  "description": "A visually polished to-do list application with Room DB storage, prioritized task grouping, and intuitive drag-and-drop prioritization mechanics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

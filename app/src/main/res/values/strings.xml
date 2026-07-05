@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="create_task">Create Task</string>
+    <string name="task_title_hint">What needs to be done?</string>
+    <string name="task_desc_hint">Add details (optional)</string>
+    <string name="delete_task">Delete Task</string>
+    <string name="complete_task">Complete Task</string>
+    <string name="priority_low">Low Priority</string>
+    <string name="priority_medium">Medium Priority</string>
+    <string name="priority_high">High Priority</string>
+    <string name="empty_tasks_title">All caught up!</string>
+    <string name="empty_tasks_subtitle">Enjoy your day or tap + to add a task.</string>
+</resources>
